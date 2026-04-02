@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a/HrBhPV36w=",
+  "dgSpecHash": "LpFB8YWZOnk=",
   "success": true,
   "projectFilePath": "/Users/maaitlunghau/Documents/SelfStudy/dotnet-clean-architecture-practice/CLEAN_APPLICATION/CLEAN_APPLICATION.csproj",
   "expectedPackageFiles": [
-    "/Users/maaitlunghau/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.5/microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+    "/Users/maaitlunghau/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
