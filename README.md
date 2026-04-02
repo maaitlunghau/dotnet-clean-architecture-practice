@@ -4,7 +4,7 @@
 [![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-brightgreen?style=for-the-badge)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-Chào mừng bạn đến với dự án mẫu triển khai **Clean Architecture** (Kiến trúc sạch) sử dụng **.NET 10**. Đây là môi trường để học tập, thực hành và áp dụng các nguyên tắc thiết kế phần mềm hiện đại như SOLID, CQRS, và Dependency Inversion.
+Chào mừng bạn đến với dự án mẫu triển khai **Clean Architecture** (Kiến trúc sạch) sử dụng **.NET 8**. Đây là môi trường để học tập, thực hành và áp dụng các nguyên tắc thiết kế phần mềm hiện đại như SOLID, CQRS, và Dependency Inversion.
 
 ---
 
@@ -37,5 +37,3 @@ graph TD
 4.  **CLEAN_API (Presentation Layer)**
     *   **Nhiệm vụ**: Điểm vào của ứng dụng, chịu trách nhiệm nhận và phản hồi các yêu cầu từ phía client.
     *   **Thành phần**: Controllers / Minimal APIs, Middleware, Filters, Swagger/OpenAPI Configuration, Dependency Injection Registration.
-
----
