@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CLEAN_APPLICATION\CLEAN_APPLICATION.csproj" />
     <ProjectReference Include="..\CLEAN_INFRASTRUCTURE\CLEAN_INFRASTRUCTURE.csproj" />
   </ItemGroup>
